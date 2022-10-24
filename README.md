@@ -1,3 +1,5 @@
-# tdu-intror
+# Welcome!
 
-This repository will host the participant files and workbooks for practical exercises delivered in the PHAC-TDU Introduction to R for Public Health Investigations. 
+Welcome to the PHAC Training and Development Unit's (TDU) Data Managment and Introduction to R for Applied Public Health!
+
+This repository will host the participant files and workbooks for practical exercises delivered in the two course streams. 
