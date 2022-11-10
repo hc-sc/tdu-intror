@@ -13,7 +13,8 @@
 # Date Last Modified: 2022-11-10
 ####################################################################
 
-#Start by setting up your workspace. Minimize R and create a new folder on your computer called IntroToR
+#Start by setting up your workspace (note: instructions are also available in the workbook for this exercise). 
+#Minimize R and create a new folder on your computer called IntroToR
 #Within the IntroToR folder create a subfolder for Day 1 of the course called: "Exercise_Day1". For example: "C:\IntroToR\Exercise_Day1".
 #Create new folders within Exercise_Day1 called: "output";"data";"scripts"
 
