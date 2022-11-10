@@ -10,13 +10,13 @@
 # Created: 2020-10-30
 #
 # Modified By: Benjamin Hetman, Pasha Marcynuk & Joanne Stares
-# Date Modified: 2022-01-24
+# Date Modified: 2022-11-10
 ####################################################################
 
-#Start by setting up your workspace.
+#Start by setting up your workspace. Note instructions are also available in the workbook associated with this exercise.
   #Within the IntroToR folder you created on Day 1, create a sub-folder for Day 2 called: "Exercise_Day2". For example: "C:\IntroToR\Exercise_Day2".
   #Create new folders within Exercise_Day2 called: "output";"data" "scripts"
-  #Move the files for Day 2 from Dropbox to their corresponding folders
+  #Move the files for Day 2 to their corresponding folders
   #Note: If you do not name your folders as described above, 
          #you may need to modify the code that references these folder paths throughout the scripts for this exercise
 
