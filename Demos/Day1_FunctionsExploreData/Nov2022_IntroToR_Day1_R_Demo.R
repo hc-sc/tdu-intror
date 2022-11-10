@@ -15,7 +15,7 @@
 # Extras (other helpful things)
 
 #Instructions for demo - go as far as possible in 15 mins
-#This script is made available course participants for further reference
+#This script is made available to course participants for further reference
 ##############################################################################
 
 #access help documentation using the library function (or the help tab in the lower right)
