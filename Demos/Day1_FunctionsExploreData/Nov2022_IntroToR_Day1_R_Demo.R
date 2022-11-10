@@ -115,7 +115,7 @@ mode(pirate.data$date)
 pirate.data %>% 
   count(sword.type)
 
-#we can use the summarise / summarize (rare case of synonyms in R!) function 
+#we can use the summarise / summarize function (synonym!) 
 #to obtain descriptive statistics of numeric variables
 #this function creates a dataframe - we can create a new object, or print in the console
 
