@@ -17,8 +17,8 @@
 #Within the IntroToR folder create a subfolder for Day 1 of the course called: "Exercise_Day1". For example: "C:\IntroToR\Exercise_Day1".
 #Create new folders within Exercise_Day1 called: "output";"data";"scripts"
 
-#Move the scripts files for Day 1 from Dropbox to the scripts folder within the Exercise_Day1 folder.
-#Move the data files for Day 1 from Dropbox to the data folder within the Exercise_Day1 folder
+#Move the scripts files for Day 1 to your scripts folder within the Exercise_Day1 folder.
+#Move the data files for Day 1 to your data folder within the Exercise_Day1 folder
 
 
 #Note: we are using a special package named "here" to help identify *relative* file paths. 
