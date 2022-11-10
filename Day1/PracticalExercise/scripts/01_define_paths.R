@@ -10,7 +10,7 @@
 # Created: 2020-10-22
 #
 # Modified By: Benjamin Hetman, Pasha Marcynuk & Joanne Stares 
-# Date Last Modified: 2022-01-04
+# Date Last Modified: 2022-11-10
 ####################################################################
 
 #Start by setting up your workspace. Minimize R and create a new folder on your computer called IntroToR
