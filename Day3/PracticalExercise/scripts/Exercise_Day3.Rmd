@@ -17,11 +17,11 @@ M.A. Belair
 B. Hetman
 
 *Date last modified: *
-2021-11-17
+2022-11-10
 
 ##### Notes: 
 * Mock admin SAS datasets processed in R and Stata in 2017
-* Training module location: Dropbox
+* Training module location: GitHub
 * Case definition - Asthma: 1 year and older - 1H Ever or 2P in 2Y https://www.canada.ca/en/public-health/services/publications/canadian-chronic-disease-surveillance-system-factsheet.html
 
 
