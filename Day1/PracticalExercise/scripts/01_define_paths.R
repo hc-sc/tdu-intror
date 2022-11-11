@@ -31,6 +31,9 @@
 
 #Next we'll set up some variables containing the paths to your data, scripts, and output folders. You'll see how this comes in handy later.
 
+#Install the here package
+install.packages("here")
+
 #This is your raw data folder. You will save any raw data used in this project in this folder. 
 data_folder <- here::here("Exercise_Day1", "data")
 
