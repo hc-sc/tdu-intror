@@ -26,6 +26,9 @@
 #Next we'll set up some variables containing the paths to your data, scripts, and output folders. 
 #You'll see how this comes in handy later.
 
+#Install the here package if you have not installed it already
+#install.packages("here")
+
 #This is your raw data folder. You will save any raw data used in this project in this folder. 
 #If your folders have a different name or path as described above, replace the character strings
 #below to match the subfolders on your machine.
