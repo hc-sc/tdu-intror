@@ -9,7 +9,7 @@ To download all course materials at one time from the TDU Intro to R GitHub repo
 https://github.com/hc-sc/tdu-intror.git Navigate to the green “Code” button near the top right portion
 of the screen and click on it. Then select “Download ZIP” from the dropdown menu. See the screen
 capture below.
-Download of the zip file containing course materials should begin within a few minutes. Pleasereach out
+Download of the zip file containing course materials should begin within a few minutes. Please reach out
 to your course leads for assistance if you are unable to access materials stored in our GitHub repository.
 However, we recommend downloading course materials prior to joining the course as we are unable to
 assist with issues relating to network download speed.
