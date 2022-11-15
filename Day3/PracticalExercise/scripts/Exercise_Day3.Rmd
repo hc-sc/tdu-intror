@@ -279,7 +279,7 @@ asthma_agespecific <- asthma_reg1314 %>%
 
 #calculate rates
 asthma_agespecific <- asthma_agespecific %>%
-  mutate(agespecific_rate = (cases/popn)*1000000)
+  mutate(agespecific_rate = (cases/popn)*100000)
 
 ```
 
