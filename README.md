@@ -1,29 +1,17 @@
 # Welcome!
 
-Welcome to the PHAC Training and Development Unit's (TDU) Introduction to R for Public Health Investigations course!
-
-This repository will host the participant files and workbooks for practical exercises. Please be sure to review the course participant guide for an overview of how the course works (Nov2022_IntroToR_ParticipantGuide.docx).
+Welcome to the PHAC Training and Development Unit's (TDU) Introduction to R for Public Health Investigations course! This repository will host the participant files and workbooks for practical exercises. Please be sure to review the course participant guide for an overview of how the course works (Nov2022_IntroToR_ParticipantGuide.docx).
 
 ### DOWNLOADING COURSE MATERIALS:
-To download all course materials at one time from the TDU Intro to R GitHub repository, navigate to the green “Code” button near the top right portion
-of the screen and click on it. Then select “Download ZIP” from the dropdown menu. See the image below.
-Download of the zip file containing course materials should begin within a few minutes. Please reach out
-to your course leads for assistance if you are unable to access materials stored in our GitHub repository.
-Note: We recommend downloading course materials prior to joining the course as we are unable to
+To download all course materials at one time from the TDU Intro to R GitHub repository, navigate to the green “Code” button near the top right portion of the screen and click on it. Then select “Download ZIP” from the dropdown menu. See the image below. Download of the zip file containing course materials should begin within a few minutes. Please reach out to your course leads for assistance if you are unable to access materials stored in our GitHub repository. Note: We recommend downloading course materials prior to joining the course as we are unable to
 assist with issues relating to network download speed.
 
 # Bienvenue! 
 
-Bienvenue au cours Introduction à R pour les enquêtes de santé publique de l’Unité d’apprentissage et de perfectionnement (UAP) de l’ASPC! 
-
-Ici, nous consignerons tous les fichiers nécessaires pour suivre le cours et réaliser les exercices associés. Si vous n’avez pas l’habitude de travailler avec Github, vous pouvez considérer cet espace comme un dossier en ligne vous permettant d’accéder aux ressources du cours. 
-
-Veuillez vous assurer de consulter le guide du participant ou de la participante pour avoir un aperçu du fonctionnement du cours. 
+Bienvenue au cours Introduction à R pour les enquêtes de santé publique de l’Unité d’apprentissage et de perfectionnement (UAP) de l’ASPC! Ici, nous consignerons tous les fichiers nécessaires pour suivre le cours et réaliser les exercices associés. Si vous n’avez pas l’habitude de travailler avec Github, vous pouvez considérer cet espace comme un dossier en ligne vous permettant d’accéder aux ressources du cours. Veuillez vous assurer de consulter le guide du participant ou de la participante pour avoir un aperçu du fonctionnement du cours. 
 
 ### TÉLÉCHARGEMENT DU MATÉRIEL DU COUR: 
 
-Pour télécharger tout le matériel du cours d’un coup à partir du dépôt GitHub du cours d’introduction à R de l’UAP, cliquez sur le bouton vert « Code » situé dans la partie supérieure droite de l’écran. Ensuite, à partir du menu déroulant, sélectionnez « Télécharger le fichier ZIP » (Download ZIP). Consultez l’image ci-dessous. Le téléchargement du fichier ZIP contenant le matériel de cours devrait commencer en quelques minutes. Veuillez contacter vos responsables de cours pour obtenir de l’aide si vous n’arrivez pas à accéder au matériel stocké dans notre dépôt GitHub.  
-
-Remarque : Étant donné que nous ne sommes pas en mesure de vous aider en ce qui concerne les problèmes relatifs à la vitesse de téléchargement du réseau, nous vous recommandons de télécharger le matériel de cours avant de vous joindre à celui-ci. 
+Pour télécharger tout le matériel du cours d’un coup à partir du dépôt GitHub du cours d’introduction à R de l’UAP, cliquez sur le bouton vert « Code » situé dans la partie supérieure droite de l’écran. Ensuite, à partir du menu déroulant, sélectionnez « Télécharger le fichier ZIP » (Download ZIP). Consultez l’image ci-dessous. Le téléchargement du fichier ZIP contenant le matériel de cours devrait commencer en quelques minutes. Veuillez contacter vos responsables de cours pour obtenir de l’aide si vous n’arrivez pas à accéder au matériel stocké dans notre dépôt GitHub. Remarque : Étant donné que nous ne sommes pas en mesure de vous aider en ce qui concerne les problèmes relatifs à la vitesse de téléchargement du réseau, nous vous recommandons de télécharger le matériel de cours avant de vous joindre à celui-ci. 
 
 ![image](https://user-images.githubusercontent.com/2482698/201735900-27b13441-f03a-4322-ab56-a45709b99479.png)
